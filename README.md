@@ -1,0 +1,3 @@
+The Automation Developer Associate Training is a curriculum for those looking to build their automation development competency from the ground up while also diving into more broader areas to gain a holistic understanding of how automation intertwines with various technologies.
+It includes everything you need to know to pass the UiPath Certified Professional Automation Developer Associate Certification exam.
+You'll expand your automation knowledge going through 21 courses designed to help you develop enterprise automation projects. The full list of courses that make up the training can be found in the ‘learning plan curriculum’ tab. You can click specific courses to view each specific agenda and learning objectives.
